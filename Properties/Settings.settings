@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PCSBingMapKeyManagerFX.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://iotpcsdev.documents.azure.com:443/</Value>
+    </Setting>
+    <Setting Name="Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JKEahFNSyKRGHZ3ejPQsMyv1YFS9IibvKCS9impxJxtCMxUEB82DzdXYZa1F0sv7nxAsJpncaz95CzCXTuWduA==</Value>
+    </Setting>
+    <Setting Name="DatabaseId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pcs-storage</Value>
+    </Setting>
+    <Setting Name="CollectionId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pcs-storage</Value>
+    </Setting>
+    <Setting Name="DocumentId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">solution-settings.theme</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
